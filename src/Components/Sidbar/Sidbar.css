@@ -1,0 +1,31 @@
+.sidebar a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  /* Active/current link */
+  .sidebar a.active {
+    display: inline-block;
+  }
+  .sidebar h3{
+    margin: 8%;
+  }
+  .sidebar h3 img{
+    background-color: #9D58FA;
+    width: 15%;
+  }
+  
+  /* Links on mouse-over */
+  .sidebar a:hover {
+    background-color: #F3F5F8;
+    color: black;
+  }
+  .sidebar h3{
+    margin: 8%;
+  }
+  .sidebar h3 img{
+    background-color: #9D58FA;
+    width: 15%;
+  }

@@ -1,0 +1,9 @@
+.Booking .col-md-4:hover{
+    scale: 1.05;
+    }
+    .Booking .col-md-4{
+        transition: all .5s;
+    }
+    .card img{
+        height: 180px;
+     }
